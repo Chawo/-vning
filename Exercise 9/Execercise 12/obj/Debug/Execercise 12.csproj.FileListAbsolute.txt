@@ -1,0 +1,6 @@
+C:\Users\Katrina\Documents\Visual Studio 2015\Projects\Excersise\Exercise 9\Execercise 12\bin\Debug\Execercise 12.exe.config
+C:\Users\Katrina\Documents\Visual Studio 2015\Projects\Excersise\Exercise 9\Execercise 12\bin\Debug\Execercise 12.exe
+C:\Users\Katrina\Documents\Visual Studio 2015\Projects\Excersise\Exercise 9\Execercise 12\bin\Debug\Execercise 12.pdb
+C:\Users\Katrina\Documents\Visual Studio 2015\Projects\Excersise\Exercise 9\Execercise 12\obj\Debug\Execercise 12.csprojResolveAssemblyReference.cache
+C:\Users\Katrina\Documents\Visual Studio 2015\Projects\Excersise\Exercise 9\Execercise 12\obj\Debug\Execercise 12.exe
+C:\Users\Katrina\Documents\Visual Studio 2015\Projects\Excersise\Exercise 9\Execercise 12\obj\Debug\Execercise 12.pdb

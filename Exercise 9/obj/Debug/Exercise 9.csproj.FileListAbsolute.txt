@@ -1,0 +1,9 @@
+C:\Users\Katrina\documents\visual studio 2015\Projects\Excersise\Exercise 9\bin\Debug\Exercise 9.exe.config
+C:\Users\Katrina\documents\visual studio 2015\Projects\Excersise\Exercise 9\bin\Debug\Exercise 9.exe
+C:\Users\Katrina\documents\visual studio 2015\Projects\Excersise\Exercise 9\bin\Debug\Exercise 9.pdb
+C:\Users\Katrina\documents\visual studio 2015\Projects\Excersise\Exercise 9\obj\Debug\Exercise 9.exe
+C:\Users\Katrina\documents\visual studio 2015\Projects\Excersise\Exercise 9\obj\Debug\Exercise 9.pdb
+C:\Users\Katrina\documents\visual studio 2015\Projects\Excersise\Exercise 9\obj\Debug\Exercise 9.csprojResolveAssemblyReference.cache
+C:\Users\Katrina\Source\Repos\-vning\Exercise 9\bin\Debug\Exercise 9.exe.config
+C:\Users\Katrina\Source\Repos\-vning\Exercise 9\obj\Debug\Exercise 9.exe
+C:\Users\Katrina\Source\Repos\-vning\Exercise 9\obj\Debug\Exercise 9.pdb
