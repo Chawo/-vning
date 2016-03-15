@@ -4,12 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Execercise_9
+namespace Execercise_12
 {
     class Program
     {
         static void Main(string[] args)
         {
+            //var logger = new Logger();
+            var logger = new DateTimeLogger();
+            var application = new LogApplication(logger);
+            application.Run();
         }
     }
 }
